@@ -1,4 +1,4 @@
-(defproject scopews/svgreq "1.1.0"
+(defproject com.github.scopews/svgreq "1.1.0"
   :description "Clojure macro for generating react component based on svg"
   :url         "https://github.com/scopews/svgreq"
   :license {:name "Eclipse Public License"
