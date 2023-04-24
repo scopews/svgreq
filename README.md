@@ -1,6 +1,8 @@
 # Svgreq
 Clojure macro for generating react component based on svg
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.github.scopews/svgreq.svg)](https://clojars.org/com.github.scopews/svgreq)
+
 ## Usage
 ```clojure
 (def BellSvg (svgreq.core/embed "resources/icons" "bell"))
