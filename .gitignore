@@ -1,0 +1,9 @@
+.cache
+.cpcache
+.nrepl-port
+.shadow-cljs
+.target
+out
+target
+node_modules
+.DS_Store
